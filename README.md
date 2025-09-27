@@ -43,26 +43,26 @@ I have delivered high-stakes, scalable mobile solutions for global enterprises, 
 
 #### **Native Android Applications**
 
-  + [DICK'S Sporting Goods](https://play.google.com/store/apps/details?id=dsgui.android): High-volume e-commerce and retail application. Developed features for the ScoreCard loyalty program, in-store barcode scanning, and **MOVE** feature 
++ [DICK'S Sporting Goods](https://play.google.com/store/apps/details?id=dsgui.android): High-volume e-commerce and retail application. Developed features for the ScoreCard loyalty program, in-store barcode scanning, and **MOVE** feature 
 integration with fitness trackers (Fitbit, Garmin).
 
-  + [Intrado SafetyShield](https://play.google.com/store/apps/details?id=com.intrado.safetyshield.mobile): Enterprise safety and incident management platform. Developed core features including the **Mobile Panic Button** (direct to **9-1-1/PSAPs**), secure two-way staff chat, and digital emergency response checklists.
++ [Intrado SafetyShield](https://play.google.com/store/apps/details?id=com.intrado.safetyshield.mobile): Enterprise safety and incident management platform. Developed core features including the **Mobile Panic Button** (direct to **9-1-1/PSAPs**), secure two-way staff chat, and digital emergency response checklists.
     
-  + [Mayo Clinic](https://play.google.com/store/apps/details?id=com.mayoclinic.patient): Flagship healthcare application serving millions of patients worldwide. Contributed to **HIPAA-compliant** features and secure backend integrations.
-    
-  + [Forecura](https://play.google.com/store/apps/details?id=com.forcura.forcuramobile): Healthcare platform for patient engagement and workflow optimization. Developed secure mobile features and ensured compliance.
-    
-  + [OneTouch Reveal (OTR)](https://play.google.com/store/apps/details?id=com.lifescan.reveal): Lifescan's Glucose monitoring app with 50K+ active users. Migrated to **Jetpack Compose** and integrated **BLE** for CGM devices.
-    
-  + [DASH Gogo Air Avionics Integration](https://play.google.com/store/apps/details?id=com.gogoair.flight): App integrating with avionics via **MQTT and REST** for secure, real-time telemetry in aircraft systems.
++ [DASH Gogo Air Avionics Integration](https://play.google.com/store/apps/details?id=com.gogoair.flight): App integrating with avionics via **MQTT and REST** for secure, real-time telemetry in aircraft systems.
 
++ [Mayo Clinic](https://play.google.com/store/apps/details?id=com.mayoclinic.patient): Flagship healthcare application serving millions of patients worldwide. Contributed to **HIPAA-compliant** features and secure backend integrations.
+    
++ [Forecura](https://play.google.com/store/apps/details?id=com.forcura.forcuramobile): Healthcare platform for patient engagement and workflow optimization. Developed secure mobile features and ensured compliance.
+    
++ [OneTouch Reveal (OTR)](https://play.google.com/store/apps/details?id=com.lifescan.reveal): Lifescan's Glucose monitoring app with 50K+ active users. Migrated to **Jetpack Compose** and integrated **BLE** for CGM devices.
+    
 #### **Native iOS Applications**
 
-  + [Intrado SafetyShield iOS app](https://apps.apple.com/us/app/intrado-safety-shield/id1525444031): Enterprise safety and incident management platform. Developed core features including the **Mobile Panic Button** (direct to **9-1-1/PSAPs**), secure two-way staff chat, and digital emergency response checklists.
++ [Intrado SafetyShield iOS app](https://apps.apple.com/us/app/intrado-safety-shield/id1525444031): Enterprise safety and incident management platform. Developed core features including the **Mobile Panic Button** (direct to **9-1-1/PSAPs**), secure two-way staff chat, and digital emergency response checklists.
     
-  + [DASH Gogo Air Avionics Integration](https://apps.apple.com/us/app/gogo-dash-biz-av/id557489101): App integrating with avionics via **MQTT and REST** for secure, real-time telemetry in aircraft systems.
-    
-  + [Mexsport](https://apps.apple.com/us/app/mexsport/id6742206135): App that connects to **REST API** services from the Mexican government and uses weather API protocols.
++ [DASH Gogo Air Avionics Integration](https://apps.apple.com/us/app/gogo-dash-biz-av/id557489101): App integrating with avionics via **MQTT and REST** for secure, real-time telemetry in aircraft systems.
+
++ [Mexsport](https://apps.apple.com/us/app/mexsport/id6742206135): App that connects to **REST API** services from the Mexican government and uses weather API protocols.
 
 #### **Cross-Platform/Hybrid & Specialized Solutions**
 
