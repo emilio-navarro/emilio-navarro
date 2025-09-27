@@ -4,7 +4,7 @@
 
 Senior Mobile Engineer (Android & iOS) with 15+ years of experience delivering mobile solutions in healthtech, aviation, robotics, fintech, and e-commerce.
 
-Expert in Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, and REST APIs, with a proven track record of building HIPAA-compliant healthcare apps, real-time robotics control systems, and secure fintech workflows. I bridge mobile, backend, and IoT systems to create scalable, secure, and user-centered applications.
+Expert in **Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, and REST APIs**, with a proven track record of building **HIPAA-compliant healthcare apps, real-time robotics control systems, and secure fintech workflows**. I bridge mobile, backend, and IoT systems to create scalable, secure, and user-centered applications.
 
 🔹 **Skills at a Glance**
 
@@ -36,6 +36,8 @@ Expert in Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, and REST APIs, wi
 </table>
 
 📲 **Featured Apps & Solutions**
+
+I have delivered high-stakes, scalable mobile solutions for global enterprises, including mission-critical applications in healthcare (HIPAA-compliant), aviation (real-time telemetry via MQTT/REST), and robotics (WebRTC video and control streaming). The following represents a selection of my key contributions across these industries:
 
 + [Mayo Clinic Android App](https://play.google.com/store/apps/details?id=com.mayoclinic.patient): Flagship healthcare application serving millions of patients worldwide. Contributed to HIPAA-compliant features and secure backend integrations.
 
