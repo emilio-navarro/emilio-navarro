@@ -55,6 +55,8 @@ integration with fitness trackers (Fitbit, Garmin).
 + [Forecura](https://play.google.com/store/apps/details?id=com.forcura.forcuramobile): Healthcare platform for patient engagement and workflow optimization. Developed secure mobile features and ensured compliance.
     
 + [OneTouch Reveal (OTR)](https://play.google.com/store/apps/details?id=com.lifescan.reveal): Lifescan's Glucose monitoring app with 50K+ active users. Migrated to **Jetpack Compose** and integrated **BLE** for CGM devices.
+
++ [Gambyt - New Hampshire Lotto](https://play.google.com/store/apps/details?id=com.nhlottery.app.android&hl=en_US): Initial Development Contributor (6-month term) to the official state iLottery application. Contributed to the core architectural foundation. Note: The linked 1.5-star rating reflects critical functional failures and design issues introduced after my departure.
     
 #### **Native iOS Applications**
 
