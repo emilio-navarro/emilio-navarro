@@ -63,25 +63,17 @@ The following projects and architectures are available to showcase my hands-on e
 
 + [GeminiRTC Documentation](http://github.com/emilio-navarro/GeminiRTC-Documentation): WebRTC Gated Collaboration Model! This is the documentation of the current project.  Contact me to get more information.
 
-🚀 **GitHub Demos In Progress**
+📌 **Roadmap of Upcoming Projects**
 
 **Note: These projects are currently being prepared for public release and will be available soon.**
-
-+ mqtt-monitor-compose: MQTT topic subscription dashboard with live telemetry.
-
-+ ble-scanner-dashboard: BLE scanner & data visualization with Compose.
-
-+ swiftui-ble-scanner: SwiftUI BLE device scanner with live charts.
-
-+ fitness-tracker-swiftui: BLE-enabled fitness tracker with route mapping.
-
-📌 **Roadmap of Upcoming Projects**
 
 + IoT Device Control Panel (REST + MQTT)
 
 + Compose UI Component Library (open-source widgets)
 
 + Cross-platform Fitness Companion Demo (Android/iOS + BLE + MapBox)
+
++ Fitness tracker in SwiftUI
 
 📜 **License**
 
