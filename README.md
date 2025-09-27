@@ -57,9 +57,11 @@ Expert in Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, and REST APIs, wi
 
 🚀 **GitHub Demos In Progress**
 
-**Note: These projects are currently being prepared for public release and will be available soon.**
++ [GeminiRTC Documentation](http://github.com/emilio-navarro/GeminiRTC-Documentation): WebRTC Gated Collaboration Model! This is the documentation of the current project.  Contact me to get more information.
 
-+ compose-webrtc-tiles: Real-time video/audio Composables with WebRTC.
+🚀 **GitHub Demos In Progress**
+
+**Note: These projects are currently being prepared for public release and will be available soon.**
 
 + mqtt-monitor-compose: MQTT topic subscription dashboard with live telemetry.
 
