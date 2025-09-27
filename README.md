@@ -39,17 +39,23 @@ Expert in **Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, and REST APIs**
 
 I have delivered high-stakes, scalable mobile solutions for global enterprises, including mission-critical applications in healthcare (HIPAA-compliant), aviation (real-time telemetry via MQTT/REST), and robotics (WebRTC video and control streaming). The following represents a selection of my key contributions across these industries:
 
++ [DICK'S Sporting Goods Android App](https://play.google.com/store/apps/details?id=dsgui.android): High-volume e-commerce and retail application. Developed features for the ScoreCard loyalty program, in-store barcode scanning, and MOVE feature integration with fitness trackers (Fitbit, Garmin).
+
++ [Intrado SafetyShield Android app](https://play.google.com/store/apps/details?id=com.intrado.safetyshield.mobile): Android Enterprise safety and incident management platform. Developed core features including the Mobile Panic Button that instantly sends life-saving situational data to 9-1-1 (PSAPs), secure two-way staff chat,
+
++ [Intrado SafetyShield iOS app](https://apps.apple.com/us/app/intrado-safety-shield/id1525444031): iOS Enterprise safety and incident management platform. Developed core features including the Mobile Panic Button that instantly sends life-saving situational data to 9-1-1 (PSAPs), secure two-way staff chat,
+
 + [Mayo Clinic Android App](https://play.google.com/store/apps/details?id=com.mayoclinic.patient): Flagship healthcare application serving millions of patients worldwide. Contributed to HIPAA-compliant features and secure backend integrations.
 
 + [Forecura Android App](https://play.google.com/store/apps/details?id=com.forcura.forcuramobile): Healthcare platform for patient engagement and workflow optimization. Developed secure mobile features and ensured compliance.
 
 + [OneTouch Reveal (OTR) – LifeScan](https://play.google.com/store/apps/details?id=com.lifescan.reveal): Glucose monitoring app with 50K+ active users. Migrated to Jetpack Compose and integrated BLE for CGM devices.
 
-+ [Gogo Air Avionics Integration](https://play.google.com/store/apps/details?id=com.gogoair.flight): Android app integrating with avionics via MQTT and REST for secure, real-time telemetry in aircraft systems.
++ [Gogo Air Avionics Integration Android app](https://play.google.com/store/apps/details?id=com.gogoair.flight): Android app integrating with avionics via MQTT and REST for secure, real-time telemetry in aircraft systems.
 
-+ [Gogo Air Avionics Integration](https://apps.apple.com/us/app/gogo-dash-biz-av/id557489101): iOS app integrating with avionics via MQTT and REST for secure, real-time telemetry in aircraft systems.
++ [Gogo Air Avionics Integration iOS app](https://apps.apple.com/us/app/gogo-dash-biz-av/id557489101): iOS app integrating with avionics via MQTT and REST for secure, real-time telemetry in aircraft systems.
 
-+ [Mexsport](https://apps.apple.com/us/app/mexsport/id6742206135): iOS app that connects to REST API services from the Mexican government and uses weather API protocols.
++ [Mexsport iOS App](https://apps.apple.com/us/app/mexsport/id6742206135): iOS app that connects to REST API services from the Mexican government and uses weather API protocols.
 
 + Aion Robotics Control App: Full WebRTC mobile implementation for a robotics control system, enabling low-latency video and control streaming.
 
