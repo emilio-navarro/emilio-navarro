@@ -66,11 +66,14 @@ integration with fitness trackers (Fitbit, Garmin).
 
 #### **Cross-Platform/Hybrid & Specialized Solutions**
 
-  + **Aion Robotics Control App:** Full **WebRTC** mobile implementation for a robotics control system, enabling low-latency video and control streaming.
++ [It's Just Lunch Digital Systems](https://www.itsjustlunch.com): Provided hands-on consulting for the redesign and optimization of the core web platform and the internal relationship manager dashboard. Focused on scalable C# backend development and integration with front-end services.
+
++ [CheckAlt Mobile Deposit App](https://www.checkalt.com): Secure ATM and Lockbox banking app for check capture and remote deposit, integrated with the U.S. Central Bank.
+
++ [Aion Robotics Control App](https://www.aionrobotics.com): Full **WebRTC** mobile implementation for a robotics control system, enabling low-latency video and control streaming.
     
-  + **Aló Bodega – Abaxto Corp:** E-commerce & logistics app with 35K+ users across Latin America. Full-stack mobile development using **Kotlin, SwiftUI, and C\#**.
-    
-  + **CheckAlt Mobile Deposit App:** Secure mobile banking app for check capture and remote deposit, integrated with the U.S. Central Bank.
++ [Aló Bodega – Abaxto Corp](https://www.abaxto.com): E-commerce & logistics app with 35K+ users across Latin America. Full-stack mobile development using **Kotlin, SwiftUI, and C\#**.
+  
 
 -----
 
