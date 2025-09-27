@@ -57,7 +57,9 @@ I have delivered high-stakes, scalable mobile solutions for global enterprises, 
 
 + CheckAlt Mobile Deposit App: Secure mobile banking app for check capture and remote deposit, integrated with the U.S. Central Bank.
 
-🚀 **GitHub Demos In Progress**
+🚀 **GitHub Demos & Projects**
+
+The following projects and architectures are available to showcase my hands-on expertise in complex systems. **Full source code and demonstrations are available upon request.**
 
 + [GeminiRTC Documentation](http://github.com/emilio-navarro/GeminiRTC-Documentation): WebRTC Gated Collaboration Model! This is the documentation of the current project.  Contact me to get more information.
 
