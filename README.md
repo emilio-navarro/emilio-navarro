@@ -37,6 +37,16 @@ Expert in **Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, and REST APIs**
 
 -----
 
+### 🚀 GitHub Demos & Projects
+
+The following projects and architectures are available to showcase my hands-on expertise in complex systems. **Full source code and demonstrations are available upon request.**
+
++ [**GeoJson**](https://github.com/emilio-navarro/GeoJson):  A modern, **production-ready Android application** demonstrating advanced **GeoJSON** data visualization on interactive maps. This project is built using **Jetpack Compose with Material 3 design** and serves as a blueprint for implementing robust, multi-module Android architecture.
+
++ [**GeminiRTC Documentation**](http://github.com/emilio-navarro/GeminiRTC-Documentation): Documentation for a production-ready **WebRTC platform** featuring a modern Android client (**Jetpack Compose**) and a **sample Node.js WebSocket Signaling Server**. This solution demonstrates real-time peer-to-peer communication via multiple data channels (Text, JSON, Audio/Video Stream, File Transfer) and implements a high-quality, scalable architecture.  **Anyone interested in this project or collaboration should contact me for more information.**
+
+-----
+
 ### 📲 Featured Apps & Solutions
 
 I have delivered high-stakes, scalable mobile solutions for global enterprises, including mission-critical applications in healthcare (HIPAA-compliant), aviation (real-time telemetry via MQTT/REST), and robotics (WebRTC video and control streaming). The following applications represent a selection of my key contributions across these industries, categorized by platform:
@@ -75,17 +85,6 @@ I have delivered high-stakes, scalable mobile solutions for global enterprises, 
 
 + [Aló Bodega – Abaxto Corp](https://www.abaxto.com): E-commerce & logistics app with 35K+ users across Latin America. Full-stack mobile development using **Kotlin, SwiftUI, and C\#**.
   
-
------
-
-### 🚀 GitHub Demos & Projects
-
-The following projects and architectures are available to showcase my hands-on expertise in complex systems. **Full source code and demonstrations are available upon request.**
-
-+ [**GeoJson**](https://github.com/emilio-navarro/GeoJson):  A modern, **production-ready Android application** demonstrating advanced **GeoJSON** data visualization on interactive maps. This project is built using **Jetpack Compose with Material 3 design** and serves as a blueprint for implementing robust, multi-module Android architecture.
-
-+ [**GeminiRTC Documentation**](http://github.com/emilio-navarro/GeminiRTC-Documentation): Documentation for a production-ready **WebRTC platform** featuring a modern Android client (**Jetpack Compose**) and a **sample Node.js WebSocket Signaling Server**. This solution demonstrates real-time peer-to-peer communication via multiple data channels (Text, JSON, Audio/Video Stream, File Transfer) and implements a high-quality, scalable architecture.  **Anyone interested in this project or collaboration should contact me for more information.**
-
 -----
 
 ### 📌 Roadmap of Upcoming Projects
