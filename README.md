@@ -43,22 +43,21 @@ I have delivered high-stakes, scalable mobile solutions for global enterprises, 
 
 #### **Native Android Applications**
 
-+ [DICK'S Sporting Goods](https://play.google.com/store/apps/details?id=dsgui.android): High-volume e-commerce and retail application. Developed features for the ScoreCard loyalty program, in-store barcode scanning, and **MOVE** feature 
-integration with fitness trackers (Fitbit, Garmin).
-
-+ [Aion Robotics Control App](https://www.aionrobotics.com): Full **WebRTC** Proof-of-Concept (POC) developed for low-latency data exchange between an autonomous vehicle and an Android mobile application. The project included significant **enhancements to the core C3 Android app**, focusing on stability improvements and the implementation of a dynamic, event-driven menu system capable of presenting new, context-specific controls to the operator immediately upon receiving commands from the vehicle.
++ [DICK'S Sporting Goods](https://play.google.com/store/apps/details?id=dsgui.android): A high-volume e-commerce and retail application serving as the destination for top athletic apparel, gear, and footwear (Nike, Adidas, Hoka, etc.). I developed key features including the **ScoreCard loyalty program management** (tracking points, redeeming rewards, and exclusive offers), in-store retail features like barcode scanning and location-based deals, and the **MOVE feature** integration with fitness trackers (Fitbit, Garmin, MapMyRun) allowing users to earn ScoreCard Points for reaching daily activity goals. The app enables users to shop 24/7, check store inventory, and utilize Buy Online, Pick Up In-Store services.
 
 + [Intrado SafetyShield](https://play.google.com/store/apps/details?id=com.intrado.safetyshield.mobile): **An enterprise safety and incident management platform **offering a comprehensive set of tools to prevent, prepare, respond, and recover from safety threats. Developed core features including the **Mobile Panic Button** (instantly alerting key players and emergency responders, including direct routing to **9-1-1/PSAPs**), **secure two-way staff texting** and live collaboration with first responders, and providing digital emergency response plans and role-specific response checklists. Additional features supported by the platform include safety drill management, wellness check notifications, and simplified student reunification/accountability.
 
++ [Aion Robotics Control App](https://www.aionrobotics.com): Full **WebRTC** Proof-of-Concept (POC) developed for low-latency data exchange between an autonomous vehicle and an Android mobile application. The project included significant **enhancements to the core C3 Android app**, focusing on stability improvements and the implementation of a dynamic, event-driven menu system capable of presenting new, context-specific controls to the operator immediately upon receiving commands from the vehicle.
+
 + [DASH Gogo Air Avionics Integration](https://play.google.com/store/apps/details?id=com.gogoair.flight): Developed for **Gogo Business Aviation customers**, this app provides a comprehensive Gogo DASHboard for flight and ground crews. It displays **real-time system status and network availability for Gogo-equipped aircraft** (including systems like ATG, UCS 5000, and Gogo AVANCE). The app achieves secure, real-time telemetry and data delivery (e.g., Network monitoring, System health, and Gogo Text & Talk/Vision availability) by integrating directly with aircraft avionics via **MQTT** and **REST** protocols.
 
-+ [Mayo Clinic](https://play.google.com/store/apps/details?id=com.mayoclinic.patient): Flagship healthcare application serving millions of patients worldwide. Contributed to **HIPAA-compliant** features and secure backend integrations.
++ [Mayo Clinic](https://play.google.com/store/apps/details?id=com.mayoclinic.patient): Flagship patient healthcare application connecting users to the **No. 1 hospital in the nation**. Serving millions of patients worldwide, the app provides tools for seamless health management, including scheduling appointments, viewing test results, radiology images, and medical records. Contributed to **core HIPAA-compliant features**, secure messaging with care teams, bill pay, and secure backend integrations essential for managing appointment itineraries, check-in questionnaires, and Express Care Online services. It also delivers daily health news, wellness content, and a connection to the Google Health app.
     
-+ [Forecura](https://play.google.com/store/apps/details?id=com.forcura.forcuramobile): Healthcare platform for patient engagement and workflow optimization. Developed secure mobile features and ensured compliance.
-    
-+ [OneTouch Reveal (OTR)](https://play.google.com/store/apps/details?id=com.lifescan.reveal): Lifescan's Glucose monitoring app with 50K+ active users. Migrated to **Jetpack Compose** and integrated **BLE** for CGM devices.
++ [OneTouch Reveal (OTR)](https://play.google.com/store/apps/details?id=com.lifescan.reveal): Lifescan's flagship glucose monitoring app, serving over 50K+ active users by supporting comprehensive **diabetes management**. The app helps users easily spot blood glucose patterns (highlighting when repeatedly out of range), offering a color-coded logbook, and personalized guidance via the **Blood Sugar Mentor™ feature**. The application was successfully migrated to Jetpack Compose for improved UI performance and integrated **Bluetooth Low Energy (BLE)** for seamless data syncing with OneTouch meters (Verio Reflect® and Verio Flex®). Key features include personalized goal tracking, A1c comparison, integrated food search for carb logging, activity tracking (steps/exercise), and the ability to share progress reports with care teams.
 
-+ [Gambyt - New Hampshire Lotto](https://play.google.com/store/apps/details?id=com.nhlottery.app.android&hl=en_US): Initial Development Contributor (6-month term) to the official state iLottery application. Contributed to the core architectural foundation. Note: The linked 1.5-star rating reflects critical functional failures and design issues introduced after my departure.
++ [Forecura](https://play.google.com/store/apps/details?id=com.forcura.forcuramobile): A **HIPAA compliant** healthcare platform for patient engagement and workflow optimization, providing a secure and intuitive interface for care teams to share **real-time messages, images, and documents**. Developed core secure mobile features, ensuring HIPAA-compliant data encryption for all communications (text and images) and connecting to Forcura Workflow for document scan capture and secure upload. The platform is accessible across smartphone, tablet, and desktop devices.
+    
++ [Gambyt - New Hampshire Lotto](https://play.google.com/store/apps/details?id=com.nhlottery.app.android&hl=en_US): The official NH iLottery application, enabling users aged 18+ to play e-Instant games for real money (including progressive jackpots), purchase tickets for major **draw games** (Powerball, Mega Millions, etc.), scan in-store tickets to check for winnings, and watch **KENO 603 draws**. I served as an **Initial Development Contributor (6-month term)**, contributing significantly to the core architectural foundation of this state platform leaving it in a stable condition. **Note:** The linked 1.5-star rating reflects critical functional failures and design issues introduced after my departure.
     
 #### **Native iOS Applications**
 
@@ -70,9 +69,9 @@ integration with fitness trackers (Fitbit, Garmin).
 
 #### **Cross-Platform/Hybrid & Specialized Solutions**
 
-+ [It's Just Lunch Digital Systems](https://www.itsjustlunch.com): Provided hands-on consulting for the redesign and optimization of the core web platform and the internal relationship manager dashboard. Focused on scalable C# backend development and integration with front-end services.
++ [It's Just Lunch Digital Systems](https://www.itsjustlunch.com): Provided expert consulting, leading the **C# backend redevelopment** of the core web platform and the **internal Matchmaking & Relationship Manager Dashboard**. This optimization modernized the digital client intake process and significantly streamlined matchmaker operations, including **lead management, candidate profiling, and date scheduling**. The focus was on delivering a highly scalable, data-driven system by building secure **ASP.NET Core API services** to support the entire client lifecycle and facilitate complex, feedback-driven match generation.
 
-+ [CheckAlt Mobile Deposit App](https://www.checkalt.com): Secure ATM and Lockbox banking app for check capture and remote deposit, integrated with the U.S. Central Bank.
++ [CheckAlt Integrated Receivables Platform](https://www.checkalt.com): An advanced, API-driven solution providing secure, multi-channel item processing for financial institutions. It enables **Remote Deposit Capture (RDC)** via the **FinCapture mobile API**, **ATM deposit capture**, and **Lockbox services** for checks. All transactions are consolidated, feature built-in fraud detection, and are processed for clearing through the **Federal Reserve (Check 21 compliant)**.
 
 + [Aló Bodega – Abaxto Corp](https://www.abaxto.com): E-commerce & logistics app with 35K+ users across Latin America. Full-stack mobile development using **Kotlin, SwiftUI, and C\#**.
   
@@ -83,7 +82,9 @@ integration with fitness trackers (Fitbit, Garmin).
 
 The following projects and architectures are available to showcase my hands-on expertise in complex systems. **Full source code and demonstrations are available upon request.**
 
-  + [**GeminiRTC Documentation**](http://github.com/emilio-navarro/GeminiRTC-Documentation): **WebRTC** Gated Collaboration Model\! This is the documentation of the current project. Contact me to get more information.
++ [**GeoJson**](https://github.com/emilio-navarro/GeoJson):  A modern, **production-ready Android application** demonstrating advanced **GeoJSON** data visualization on interactive maps. This project is built using **Jetpack Compose with Material 3 design** and serves as a blueprint for implementing robust, multi-module Android architecture.
+
++ [**GeminiRTC Documentation**](http://github.com/emilio-navarro/GeminiRTC-Documentation): Documentation for a production-ready **WebRTC platform** featuring a modern Android client (**Jetpack Compose**) and a **sample Node.js WebSocket Signaling Server**. This solution demonstrates real-time peer-to-peer communication via multiple data channels (Text, JSON, Audio/Video Stream, File Transfer) and implements a high-quality, scalable architecture.  **Anyone interested in this project or collaboration should contact me for more information.**
 
 -----
 
