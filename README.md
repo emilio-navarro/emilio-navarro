@@ -46,6 +46,8 @@ I have delivered high-stakes, scalable mobile solutions for global enterprises, 
 + [DICK'S Sporting Goods](https://play.google.com/store/apps/details?id=dsgui.android): High-volume e-commerce and retail application. Developed features for the ScoreCard loyalty program, in-store barcode scanning, and **MOVE** feature 
 integration with fitness trackers (Fitbit, Garmin).
 
++ [Aion Robotics Control App](https://www.aionrobotics.com): Full **WebRTC** Proof-of-Concept (POC) developed for low-latency data exchange between an autonomous vehicle and an Android mobile application. The project included significant **enhancements to the core C3 Android app**, focusing on stability improvements and the implementation of a dynamic, event-driven menu system capable of presenting new, context-specific controls to the operator immediately upon receiving commands from the vehicle.
+
 + [Intrado SafetyShield](https://play.google.com/store/apps/details?id=com.intrado.safetyshield.mobile): Enterprise safety and incident management platform. Developed core features including the **Mobile Panic Button** (direct to **9-1-1/PSAPs**), secure two-way staff chat, and digital emergency response checklists.
     
 + [DASH Gogo Air Avionics Integration](https://play.google.com/store/apps/details?id=com.gogoair.flight): App integrating with avionics via **MQTT and REST** for secure, real-time telemetry in aircraft systems.
@@ -72,8 +74,6 @@ integration with fitness trackers (Fitbit, Garmin).
 
 + [CheckAlt Mobile Deposit App](https://www.checkalt.com): Secure ATM and Lockbox banking app for check capture and remote deposit, integrated with the U.S. Central Bank.
 
-+ [Aion Robotics Control App](https://www.aionrobotics.com): Full **WebRTC** mobile implementation for a robotics control system, enabling low-latency video and control streaming.
-    
 + [Aló Bodega – Abaxto Corp](https://www.abaxto.com): E-commerce & logistics app with 35K+ users across Latin America. Full-stack mobile development using **Kotlin, SwiftUI, and C\#**.
   
 
