@@ -48,9 +48,9 @@ integration with fitness trackers (Fitbit, Garmin).
 
 + [Aion Robotics Control App](https://www.aionrobotics.com): Full **WebRTC** Proof-of-Concept (POC) developed for low-latency data exchange between an autonomous vehicle and an Android mobile application. The project included significant **enhancements to the core C3 Android app**, focusing on stability improvements and the implementation of a dynamic, event-driven menu system capable of presenting new, context-specific controls to the operator immediately upon receiving commands from the vehicle.
 
-+ [Intrado SafetyShield](https://play.google.com/store/apps/details?id=com.intrado.safetyshield.mobile): Enterprise safety and incident management platform. Developed core features including the **Mobile Panic Button** (direct to **9-1-1/PSAPs**), secure two-way staff chat, and digital emergency response checklists.
-    
-+ [DASH Gogo Air Avionics Integration](https://play.google.com/store/apps/details?id=com.gogoair.flight): App integrating with avionics via **MQTT and REST** for secure, real-time telemetry in aircraft systems.
++ [Intrado SafetyShield](https://play.google.com/store/apps/details?id=com.intrado.safetyshield.mobile): **An enterprise safety and incident management platform **offering a comprehensive set of tools to prevent, prepare, respond, and recover from safety threats. Developed core features including the **Mobile Panic Button** (instantly alerting key players and emergency responders, including direct routing to **9-1-1/PSAPs**), **secure two-way staff texting** and live collaboration with first responders, and providing digital emergency response plans and role-specific response checklists. Additional features supported by the platform include safety drill management, wellness check notifications, and simplified student reunification/accountability.
+
++ [DASH Gogo Air Avionics Integration](https://play.google.com/store/apps/details?id=com.gogoair.flight): Developed for **Gogo Business Aviation customers**, this app provides a comprehensive Gogo DASHboard for flight and ground crews. It displays **real-time system status and network availability for Gogo-equipped aircraft** (including systems like ATG, UCS 5000, and Gogo AVANCE). The app achieves secure, real-time telemetry and data delivery (e.g., Network monitoring, System health, and Gogo Text & Talk/Vision availability) by integrating directly with aircraft avionics via **MQTT** and **REST** protocols.
 
 + [Mayo Clinic](https://play.google.com/store/apps/details?id=com.mayoclinic.patient): Flagship healthcare application serving millions of patients worldwide. Contributed to **HIPAA-compliant** features and secure backend integrations.
     
@@ -62,9 +62,9 @@ integration with fitness trackers (Fitbit, Garmin).
     
 #### **Native iOS Applications**
 
-+ [Intrado SafetyShield iOS app](https://apps.apple.com/us/app/intrado-safety-shield/id1525444031): Enterprise safety and incident management platform. Developed core features including the **Mobile Panic Button** (direct to **9-1-1/PSAPs**), secure two-way staff chat, and digital emergency response checklists.
++ [Intrado SafetyShield iOS app](https://apps.apple.com/us/app/intrado-safety-shield/id1525444031): **An enterprise safety and incident management platform **offering a comprehensive set of tools to prevent, prepare, respond, and recover from safety threats. Developed core features including the **Mobile Panic Button** (instantly alerting key players and emergency responders, including direct routing to **9-1-1/PSAPs**), **secure two-way staff texting** and live collaboration with first responders, and providing digital emergency response plans and role-specific response checklists. Additional features supported by the platform include safety drill management, wellness check notifications, and simplified student reunification/accountability.
     
-+ [DASH Gogo Air Avionics Integration](https://apps.apple.com/us/app/gogo-dash-biz-av/id557489101): App integrating with avionics via **MQTT and REST** for secure, real-time telemetry in aircraft systems.
++ [DASH Gogo Air Avionics Integration](https://apps.apple.com/us/app/gogo-dash-biz-av/id557489101): Developed for **Gogo Business Aviation customers**, this app provides a comprehensive Gogo DASHboard for flight and ground crews. It displays **real-time system status and network availability for Gogo-equipped aircraft** (including systems like ATG, UCS 5000, and Gogo AVANCE). The app achieves secure, real-time telemetry and data delivery (e.g., Network monitoring, System health, and Gogo Text & Talk/Vision availability) by integrating directly with aircraft avionics via **MQTT** and **REST** protocols.
 
 + [Mexsport](https://apps.apple.com/us/app/mexsport/id6742206135): App that connects to **REST API** services from the Mexican government and uses weather API protocols.
 
