@@ -2,11 +2,17 @@
 
 ### Senior Mobile Engineer | Technology Leader
 
-Senior Mobile Engineer (Android & iOS) with 15+ years of experience delivering mobile solutions in **healthtech, aviation, robotics, fintech, and e-commerce**.
+I’m a **Senior Mobile Engineer (Android & iOS)** with over **15 years of experience** building high-impact apps across **healthtech, aviation, robotics, fintech, and e-commerce.**
 
-Expert in **Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, and REST APIs**, with a proven track record of building **HIPAA-compliant healthcare apps, real-time robotics control systems**, and **secure fintech workflows**. I bridge mobile, backend, and IoT systems to create scalable, secure, and user-centered applications.
+I specialize in **Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, and REST APIs** — bridging mobile, backend, and IoT systems to deliver scalable, secure, and user-centered applications.
 
-🔹 **Skills at a Glance**
+<p align="center">
+  <a href="https://www.linkedin.com/in/emilionavarro/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="mailto:y2k_eclipse@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-success?logo=gmail" /></a>
+  <a href="https://github.com/emilio-navarro"><img src="https://img.shields.io/github/followers/emilio-navarro?label=Followers&style=social" /></a>
+</p>
+
+### ⚙️ Core Expertise
 
 <table style="width:100%;">
   <thead>
@@ -17,40 +23,51 @@ Expert in **Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, and REST APIs**
   </thead>
   <tbody>
     <tr>
-      <td>Mobile</td>
-      <td>Android (Kotlin, Jetpack Compose, Coroutines, Hilt), iOS (Swift, SwiftUI, Combine)</td>
+      <td><b>Mobile</b></td>
+      <td>Android (<b>Kotlin, Jetpack Compose, Coroutines, Hilt</b>), iOS (<b>Swift, SwiftUI, Combine</b>)</td>
     </tr>
     <tr>
-      <td>IoT & Real-Time</td>
-      <td>BLE, WebRTC, MQTT, NFC, RFID, MapBox</td>
+      <td><b>IoT & Real-Time</b></td>
+      <td><b>BLE, WebRTC, MQTT</b>, NFC, RFID, MapBox</td>
     </tr>
     <tr>
-      <td>Backend & Cloud</td>
-      <td>C#, REST APIs, AWS, SQL Server, PostgreSQL</td>
+      <td><b>Backend & Cloud</b></td>
+      <td><b>C#, REST APIs, AWS</b>, SQL Server, PostgreSQL</td>
     </tr>
     <tr>
-      <td>Architecture</td>
-      <td>MVVM, Clean Architecture, Scalable System Design</td>
+      <td><b>Architecture</b></td>
+      <td><b>MVVM, Clean Architecture, Scalable System Design</b>, Scalable System Design</td>
     </tr>
   </tbody>
 </table>
 
 -----
 
-### 🚀 GitHub Demos & Projects
+### 🚀 Highlighted Demos & Technical Deep Dives
 
-The following projects and architectures are available to showcase my hands-on expertise in complex systems. **Full source code and demonstrations are available upon request.**
+These projects showcase my approach to complex architecture, real-time communication, and advanced mobile features.
 
-+ [**GeoJson**](https://github.com/emilio-navarro/GeoJson):  A modern, **production-ready Android application** demonstrating advanced **GeoJSON** data visualization on interactive maps. This project is built using **Jetpack Compose with Material 3 design** and serves as a blueprint for implementing robust, multi-module Android architecture.
+#### 🔊 [GeminiRTC Platform](https://github.com/emilio-navarro/GeminiRTC-Documentation)
+A **production-ready WebRTC platform** featuring a modern Android client (**Jetpack Compose**) and a robust **Node.js WebSocket Signaling Server**. This solution demonstrates **real-time peer-to-peer communication** via multiple data channels (A/V Stream, File Transfer). **Anyone interested in this project or collaboration should contact me for more information.**
 
-+ [**GeminiRTC Documentation**](http://github.com/emilio-navarro/GeminiRTC-Documentation): Documentation for a production-ready **WebRTC platform** featuring a modern Android client (**Jetpack Compose**) and a **sample Node.js WebSocket Signaling Server**. This solution demonstrates real-time peer-to-peer communication via multiple data channels (Text, JSON, Audio/Video Stream, File Transfer) and implements a high-quality, scalable architecture.  **Anyone interested in this project or collaboration should contact me for more information.**
+#### 🗺️ [GeoJson Visualization Demo](https://github.com/emilio-navarro/GeoJson)
+A modern, production-ready Android application demonstrating advanced **GeoJSON data visualization** on interactive maps. Built entirely with **Jetpack Compose** and leveraging a **custom canvas-based rendering engine** using Clean Architecture and 100% Mockito-based Unit Tests.
 
 -----
 
-### 📲 Featured Apps & Solutions
+### 🔗 Let’s Connect
 
-I have delivered high-stakes, scalable mobile solutions for global enterprises, including mission-critical applications in healthcare (HIPAA-compliant), aviation (real-time telemetry via MQTT/REST), and robotics (WebRTC video and control streaming). The following applications represent a selection of my key contributions across these industries, categorized by platform:
+<p align="center">
+  <a href="https://www.linkedin.com/in/emilionavarro/"><img src="https://img.shields.io/badge/LinkedIn-Emilio%20Navarro-blue?logo=linkedin" /></a>
+  <a href="mailto:y2k_eclipse@hotmail.com"><img src="https://img.shields.io/badge/Email-y2k__eclipse%40hotmail.com-lightgrey?logo=gmail" /></a>
+  <a href="https://github.com/emilio-navarro"><img src="https://img.shields.io/badge/GitHub-emilio--navarro-black?logo=github" /></a>
+</p>
 
+-----
+
+### 📱 Featured Apps & Solutions
+
+This section highlights my contributions across diverse, large-scale commercial and mission-critical applications.
 #### **Native Android Applications**
 
 + [DICK'S Sporting Goods](https://play.google.com/store/apps/details?id=dsgui.android): A high-volume e-commerce and retail application serving as the destination for top athletic apparel, gear, and footwear (Nike, Adidas, Hoka, etc.). I developed key features including the **ScoreCard loyalty program management** (tracking points, redeeming rewards, and exclusive offers), in-store retail features like barcode scanning and location-based deals, and the **MOVE feature** integration with fitness trackers (Fitbit, Garmin, MapMyRun) allowing users to earn ScoreCard Points for reaching daily activity goals. The app enables users to shop 24/7, check store inventory, and utilize Buy Online, Pick Up In-Store services.
@@ -102,8 +119,8 @@ I have delivered high-stakes, scalable mobile solutions for global enterprises, 
 
 All demo projects are released under the [MIT License](https://www.google.com/search?q=LICENSE).
 
-### 🔗 Connect with Me
+---
 
-LinkedIn: [https://www.linkedin.com/in/emilionavarro/](https://www.linkedin.com/in/emilionavarro/)
-
-Email: y2k\_eclipse@hotmail.com
+<p align="center">
+  <b>“Building cross-platform real-time mobile systems that move the world.”</b>
+</p>
