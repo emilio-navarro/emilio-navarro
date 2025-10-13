@@ -75,8 +75,8 @@ I have delivered high-stakes, scalable mobile solutions for global enterprises, 
     
 + [DASH Gogo Air Avionics Integration](https://apps.apple.com/us/app/gogo-dash-biz-av/id557489101): Developed for **Gogo Business Aviation customers**, this app provides a comprehensive Gogo DASHboard for flight and ground crews. It displays **real-time system status and network availability for Gogo-equipped aircraft** (including systems like ATG, UCS 5000, and Gogo AVANCE). The app achieves secure, real-time telemetry and data delivery (e.g., Network monitoring, System health, and Gogo Text & Talk/Vision availability) by integrating directly with aircraft avionics via **MQTT** and **REST** protocols.
 
-+ [Mexsport](https://apps.apple.com/us/app/mexsport/id6742206135): App that connects to **REST API** services from the Mexican government and uses weather API protocols.
-
++ [Mexsport](https://apps.apple.com/us/app/mexsport/id6742206135): A full-stack solution (entire app and backend services developed from scratch) that digitally transforms the process of obtaining official sport fishing licenses for Baja California, Mexico. The system provides secure, instantaneous license purchase and delivery via a user-friendly mobile app and a robust integrated payment platform. Full-stack development utilized technologies including Kotlin, Swift (or SwiftUI), and C#.
+  
 #### **Cross-Platform/Hybrid & Specialized Solutions**
 
 + [It's Just Lunch Digital Systems](https://www.itsjustlunch.com): Provided expert consulting, leading the **C# backend redevelopment** of the core web platform and the **internal Matchmaking & Relationship Manager Dashboard**. This optimization modernized the digital client intake process and significantly streamlined matchmaker operations, including **lead management, candidate profiling, and date scheduling**. The focus was on delivering a highly scalable, data-driven system by building secure **ASP.NET Core API services** to support the entire client lifecycle and facilitate complex, feedback-driven match generation.
