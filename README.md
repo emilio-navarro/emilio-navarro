@@ -83,7 +83,7 @@ I have delivered high-stakes, scalable mobile solutions for global enterprises, 
 
 + [CheckAlt Integrated Receivables Platform](https://www.checkalt.com): An advanced, API-driven solution providing secure, multi-channel item processing for financial institutions. It enables **Remote Deposit Capture (RDC)** via the **FinCapture mobile API**, **ATM deposit capture**, and **Lockbox services** for checks. All transactions are consolidated, feature built-in fraud detection, and are processed for clearing through the **Federal Reserve (Check 21 compliant)**.
 
-+ [Aló Bodega – Abaxto Corp](https://www.abaxto.com): E-commerce & logistics app with 35K+ users across Latin America. Full-stack mobile development using **Kotlin, SwiftUI, and C\#**.
++ [Aló Bodega – Abaxto Corp](https://www.abaxto.com): A **full-stack omnichannel platform** (app and backend built from scratch) that digitally transformed the traditional trade channel for 35K+ minoristas across Peru (Aló Bodega, Group Vega while-label) and Chile (as a white-label solution for La Caserita). The solution provides real-time pricing and logistics for wholesale purchases. Full-stack development utilized **Kotlin, SwiftUI/Swift, and C#** in a production environment.
   
 -----
 
