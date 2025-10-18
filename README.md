@@ -111,7 +111,6 @@ This section highlights my contributions across diverse, large-scale commercial 
 
 **Note: These projects are currently being prepared for public release and will be available soon.**
 
-  + IoT Device Control Panel (**REST + MQTT**)
   + Compose UI Component Library (open-source widgets)
   + Cross-platform Fitness Companion Demo (Android/iOS + **BLE + MapBox**)
   + Fitness tracker in **SwiftUI**
