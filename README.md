@@ -47,6 +47,9 @@ I specialize in **Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, and REST 
 
 These projects showcase my approach to complex architecture, real-time communication, and advanced mobile features.
 
+#### 🔊 [GeminiMQTT Platform](https://github.com/emilio-navarro/GeminiMQTT)
+A **production-ready Android MQTT client** featuring WhatsApp-style chat interface, built with modern Android architecture patterns and **optimized for IoT, real-time messaging, and distributed systems communication**.
+
 #### 🔊 [GeminiRTC Platform](https://github.com/emilio-navarro/GeminiRTC-Documentation)
 A **production-ready WebRTC platform** featuring a modern Android client (**Jetpack Compose**) and a robust **Node.js WebSocket Signaling Server**. This solution demonstrates **real-time peer-to-peer communication** via multiple data channels (A/V Stream, File Transfer). **Anyone interested in this project or collaboration should contact me for more information.**
 
