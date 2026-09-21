@@ -208,7 +208,7 @@ I’m interested in conversations involving:
 <p align="center">
   <a href="https://www.linkedin.com/in/emilionavarro/"><img src="https://img.shields.io/badge/LinkedIn-Emilio%20Navarro-blue?logo=linkedin" /></a>
   <a href="https://www.enavarro.me"><img src="https://img.shields.io/badge/Website-enavarro.me-success?logo=google-chrome" /></a>
-  <a href="mailto:emilio@enavarro.me"><img src="https://img.shields.io/badge/Email-emilio%40enavarro.me-lightgrey?logo=gmail" /></a>
+  <a href="mailto:emilio.navarro@enavarro.me"><img src="https://img.shields.io/badge/Email-emilio%40enavarro.me-lightgrey?logo=gmail" /></a>
   <a href="https://github.com/emilio-navarro"><img src="https://img.shields.io/badge/GitHub-emilio--navarro-black?logo=github" /></a>
 </p>
 
