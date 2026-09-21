@@ -13,7 +13,7 @@ Based in **Denver, Colorado**, I work with US and international companies as a t
 <p align="center">
   <a href="https://www.linkedin.com/in/emilionavarro/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
   <a href="https://www.enavarro.me"><img src="https://img.shields.io/badge/Website-enavarro.me-success?logo=google-chrome" /></a>
-  <a href="mailto:emilio@enavarro.me"><img src="https://img.shields.io/badge/Email-Contact-success?logo=gmail" /></a>
+  <a href="mailto:emilio.navarro@enavarro.me"><img src="https://img.shields.io/badge/Email-Contact-success?logo=gmail" /></a>
   <a href="https://github.com/emilio-navarro"><img src="https://img.shields.io/github/followers/emilio-navarro?label=Followers&style=social" /></a>
 </p>
 
