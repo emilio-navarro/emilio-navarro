@@ -1,225 +1,110 @@
-## Emilio Navarro
+# Emilio Navarro
 
-### Robotics Technology Leader | Edge-to-Cloud Integration | Real-Time Operations | Healthcare and Enterprise Deployment
+> Fractional CTO | Technology Leader | Product & Platform Architect
 
-I’m a technology leader with **20+ years of experience** across product, engineering, mobile, backend, IoT, healthcare, aviation, robotics, fintech, and e-commerce.
+I help companies, startups, and operating teams make better technology decisions and turn them into real systems. I work at the intersection of business constraints and engineering execution, with a focus on architecture, product strategy, modernization, operational clarity, and practical AI adoption.
 
-I bring more than **15 years of hands-on mobile engineering experience** and specialize in connecting business needs to dependable technical execution. My work spans **Kotlin, Jetpack Compose, SwiftUI, BLE, WebRTC, MQTT, REST APIs, C#, and cloud-connected systems**.
+With 20+ years of experience across product, engineering, mobile, backend, IoT, healthcare, aviation, robotics, fintech, and e-commerce, I bring hands-on technical depth and senior judgment to teams that need a practical path from idea to execution. I help organizations evaluate where AI creates real value, where it should not be deployed, and how to implement it responsibly within product and operating workflows.
 
-I am particularly interested in the systems around autonomy: operator workflows, real-time communication, telemetry, safety, edge-to-cloud integration, healthcare operations, and the practical work required to move an enterprise pilot into production.
+## What I do
 
-Based in **Denver, Colorado**, I work with US and international companies as a technology leader, architect, fractional CTO, and hands-on advisor.
+- Fractional CTO and technology leadership
+- Architecture review and platform modernization
+- Product and technical strategy for complex systems
+- Real-time and connected-device platforms
+- AI strategy, workflow design, and AI-assisted product development
+- Biometric AI and safety intelligence systems
+- Healthcare and regulated technology environments
+- Matchmaking and trust-sensitive operational systems
+- Technical execution for teams that need clarity without unnecessary overhead
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/emilionavarro/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://www.enavarro.me"><img src="https://img.shields.io/badge/Website-enavarro.me-success?logo=google-chrome" /></a>
-  <a href="mailto:emilio.navarro@enavarro.me"><img src="https://img.shields.io/badge/Email-Contact-success?logo=gmail" /></a>
-  <a href="https://github.com/emilio-navarro"><img src="https://img.shields.io/github/followers/emilio-navarro?label=Followers&style=social" /></a>
-</p>
+## Core capabilities
 
-### Core Expertise
+- Mobile: Kotlin, Jetpack Compose, Swift, SwiftUI
+- Backend: C#, ASP.NET Core, REST APIs, PostgreSQL, SQL Server
+- Real-time systems: WebRTC, MQTT, BLE, WebSockets, mobile-to-cloud communication
+- Architecture: Clean Architecture, MVVM, system design, observability, reliability
+- AI: AI-assisted product workflows, validation, governance, and practical implementation planning
+- Leadership: roadmap definition, vendor evaluation, modernization, cross-functional delivery
+- Sectors: robotics, safety, healthcare, enterprise operations, fintech, ecommerce
 
-<table style="width:100%;">
-  <thead>
-    <tr style="background-color:#1e88e5; color:#fff;">
-      <th>Category</th>
-      <th>Capabilities</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Robotics & Operator Systems</b></td>
-      <td>Robot control applications, human-in-the-loop workflows, operator interfaces, safety systems, remote monitoring, and real-time command delivery</td>
-    </tr>
-    <tr>
-      <td><b>Edge & Real-Time Systems</b></td>
-      <td><b>WebRTC, MQTT, BLE, REST, WebSockets</b>, telemetry, device communication, connection recovery, and low-latency data exchange</td>
-    </tr>
-    <tr>
-      <td><b>Mobile Platforms</b></td>
-      <td>Android (<b>Kotlin, Jetpack Compose, Coroutines, Hilt</b>) and iOS (<b>Swift, SwiftUI, Combine</b>)</td>
-    </tr>
-    <tr>
-      <td><b>Backend & Cloud</b></td>
-      <td><b>C#, ASP.NET Core, REST APIs, AWS</b>, SQL Server, PostgreSQL, and service integration</td>
-    </tr>
-    <tr>
-      <td><b>Healthcare Technology</b></td>
-      <td>HIPAA-conscious mobile workflows, secure health-data integrations, care-team communication, medical devices, and healthcare operations</td>
-    </tr>
-    <tr>
-      <td><b>Architecture & Delivery</b></td>
-      <td><b>Clean Architecture, MVVM, scalable system design, technical strategy, modernization, testing, and cross-functional delivery</td>
-    </tr>
-  </tbody>
-</table>
+## Focus areas
 
----
+I am especially interested in the systems around autonomy and operational reliability:
 
-### How I Help Technology Companies
+- Operator workflows and human-in-the-loop systems
+- Real-time communication, telemetry, and remote monitoring
+- Edge-to-cloud integration and device connectivity
+- Healthcare operations and privacy-conscious deployment
+- Safety-critical and high-trust systems
+- AI adoption with business case, governance, and operational realism
+- Biometric AI and human-in-the-loop safety intelligence
+- Turning difficult technical pilots into dependable products
 
-I work between the customer problem and the engineering implementation.
+## Selected experience
 
-For robotics, IoT, and connected-device companies, that can include:
+### DigitalGlobe
+Regional Manager of Solutions & Business Development for Latin America, leading geospatial product and solutions work for satellite imagery, GIS platforms, and high-availability services. Delivered a $25M national digital map program in Chile, grew Latin America revenue by 300%, and supported more than 180 TB of imagery for 4,000+ concurrent users.
 
-- Translating customer operations into product and pilot requirements.
-- Designing operator, teleoperation, and remote-monitoring workflows.
-- Connecting mobile, edge, backend, cloud, and physical-device systems.
-- Evaluating integration options and technical risks.
-- Improving observability, reliability, and recovery for real-time systems.
-- Supporting healthcare and enterprise deployments with appropriate attention to privacy, safety, and operational constraints.
-- Helping distributed engineering and product teams turn technical capability into deployable customer value.
+### Munay
+Full-stack personal safety and lone-worker platform spanning Android, iOS, backend services, and an enterprise supervisor dashboard. Architected the platform’s AI-powered biometric insight layer, combining health signals with operational context to deliver proactive wellness and safety guidance while preserving human-in-the-loop decision-making. Built real-time journey protection, silent emergency workflows, WebRTC supervisor calls, audit trails, and field-operations monitoring.
 
----
+### AION Robotics
+Worked on autonomous operator workflows and real-time control systems, including WebRTC communication between a vehicle and an Android control application, plus stability and context-driven operator tooling for live command handling.
 
-### Highlighted Demos & Technical Deep Dives
+### Abaxto Corp.
+Chief Technology Officer for a distributed mobile and commerce platform used by 100,000+ operational users. Focused on architecture consistency, release reliability, cross-time-zone execution, and scalable product delivery across mobile, backend, and operational systems.
 
-These public portfolio projects demonstrate my approach to real-time communication, connected devices, mapping, mobile architecture, testing, and operational reliability.
+### Intrado SafetyShield
+Contributed to an enterprise safety and incident management platform supporting emergency response coordination, live collaboration, responder communication, and role-specific operational workflows.
 
-#### [GeminiMQTT Platform](https://github.com/emilio-navarro/GeminiMQTT)
+### Gogo Avionics
+Delivered features for business aviation systems used by flight and ground crews to monitor aircraft connectivity, system health, and real-time operational status.
 
-An Android MQTT client demonstrating connected-device communication, QoS handling, secure connections, reconnection with exponential backoff, offline message handling, connection monitoring, and modular application architecture.
+### DICK'S Sporting Goods
+Contributed to the Android platform by integrating Adobe Coach AI capabilities and migrating the app architecture to Hilt, while supporting high-volume retail workflows such as rewards, shopping, and fitness-tracker integrations.
 
-The project is relevant to IoT, telemetry, connected vehicles, device control, and real-time operational interfaces.
+### Healthcare and regulated technology
+Built and supported mobile and platform experiences for healthcare organizations and regulated environments, including secure communication, patient workflows, privacy-conscious data handling, and operational tooling for care teams.
 
-#### [GeminiRTC Platform](https://github.com/emilio-navarro/GeminiRTC-Documentation)
+### Matchmaking and relationship platforms
+Led digital platform work for matchmaking and relationship-service businesses, improving intake, scheduling, lead management, profile workflows, and operational systems while preserving the human element of the service.
 
-A WebRTC portfolio implementation featuring a Jetpack Compose Android client and a Node.js WebSocket signaling server.
+## Healthcare and enterprise experience
 
-The project demonstrates:
+- DigitalGlobe: led geospatial and imagery solutions work across Latin America, including national-scale mapping programs, high-availability GIS services, and technical sales for government and enterprise stakeholders.
+- Abaxto Corp.: served as CTO for a distributed platform used by 100,000+ operational users, with emphasis on architecture, release reliability, and cross-functional execution across mobile and commerce products.
+- LifeScan OneTouch Reveal: supported a glucose-monitoring application used by more than 50,000 active users, with Bluetooth-enabled device sync, goal tracking, and care-team reporting workflows.
+- Forcura: developed secure healthcare mobile capabilities for care-team communication, document sharing, scanning, and secure workflow operations in a HIPAA-conscious environment.
+- Mayo Clinic: supported patient-centered mobile experiences aligned to healthcare operations and regulated product requirements.
+- DICK'S Sporting Goods: contributed to the Android app by integrating Adobe Coach AI features and leading the migration of the app architecture to Hilt, while also delivering commerce, rewards, and fitness-tracker functionality.
+- CheckAlt: worked on API-driven financial infrastructure supporting deposit capture, fraud detection, and payment-processing workflows.
+- Aló Bodega / Abaxto: helped build a full-stack omnichannel platform serving more than 35,000 small retailers across Peru and Chile, spanning mobile, commerce, and operational systems.
 
-- Real-time peer-to-peer communication.
-- Data channels for text, JSON, audio, video, and file transfer.
-- Connection-quality and latency monitoring.
-- Structured error handling and recovery.
-- Session-aware signaling.
-- Operator-facing connection state and diagnostics.
+## Technology leadership
 
-The public repository documents the architecture of the private implementation and should be treated as a technical portfolio demonstration, not as a Linux edge SDK.
+Beyond implementation, I have helped teams with:
 
-#### [GeoJSON Visualization Demo](https://github.com/emilio-navarro/GeoJson)
+- Architecture and platform modernization
+- Engineering standards and delivery practices
+- CI/CD and workflow improvement
+- Technical mentoring and onboarding
+- Product and engineering collaboration
+- AI-assisted development workflows and validation
+- Biometric AI design and human-in-the-loop control for safety-sensitive systems
+- Clear decision-making when technology has become a business problem
 
-An Android mapping demonstration using Jetpack Compose, custom canvas rendering, coordinate transformation, Clean Architecture, StateFlow, modular design, and unit testing.
+## Let’s connect
 
-The project reflects my interest in geographic systems, location-aware interfaces, and visualizing operational data.
+- Website: https://www.enavarro.me
+- LinkedIn: https://www.linkedin.com/in/emilionavarro/
+- Email: emilio.navarro@enavarro.me
+- GitHub: https://github.com/emilio-navarro
 
----
+## Current positioning
 
-### Selected Robotics, Safety, and Real-Time Systems
-
-#### [AION Robotics Control App](https://www.aionrobotics.com)
-
-Developed a WebRTC proof of concept for low-latency data exchange between an autonomous vehicle and an Android operator application.
-
-The work also included significant enhancements to the C3 Android application, including stability improvements and a dynamic, event-driven menu system that presented context-specific controls to the operator when commands arrived from the vehicle.
-
-#### [Intrado SafetyShield](https://play.google.com/store/apps/details?id=com.intrado.safetyshield.mobile)
-
-Contributed to an enterprise safety and incident-management platform supporting mobile panic alerts, emergency response coordination, secure two-way communication, live collaboration with responders, response plans, and role-specific checklists.
-
-#### [Gogo DASH Avionics Integration](https://play.google.com/store/apps/details?id=com.gogoair.flight)
-
-Developed features for a business-aviation application used by flight and ground crews to monitor aircraft network availability, system health, and communication services.
-
-The application integrated with aircraft avionics through **MQTT and REST** to provide secure, real-time telemetry and status information.
+I work with companies that need senior technology judgment without immediately hiring a full-time executive. The goal is simple: make better technology decisions, then make them real.
 
 ---
 
-### Healthcare and Regulated Technology
-
-#### [Mayo Clinic](https://play.google.com/store/apps/details?id=com.mayoclinic.patient)
-
-Contributed to a patient healthcare application supporting appointment workflows, test results, medical records, secure messaging, check-in questionnaires, Express Care Online, bill pay, and secure backend integrations.
-
-#### [OneTouch Reveal](https://play.google.com/store/apps/details?id=com.lifescan.reveal)
-
-Worked on LifeScan’s glucose-monitoring application, supporting more than **50,000 active users**.
-
-The application included diabetes-management workflows, Bluetooth Low Energy synchronization with OneTouch meters, goal tracking, A1c comparison, food and activity tracking, personalized guidance, and progress reports for care teams.
-
-#### [Forcura](https://play.google.com/store/apps/details?id=com.forcura.forcuramobile)
-
-Developed secure mobile features for a HIPAA-conscious healthcare platform serving home-based care workflows.
-
-The application supported care-team communication, secure sharing of messages, images, and documents, document scanning, and secure upload through Forcura Workflow.
-
-This experience gave me direct exposure to the mobile workflows, privacy requirements, and operational realities of home-based healthcare organizations.
-
----
-
-### Additional Enterprise and Platform Experience
-
-#### [DICK'S Sporting Goods](https://play.google.com/store/apps/details?id=dsgui.android)
-
-Developed features for a high-volume retail application, including loyalty-program functionality, barcode scanning, location-based offers, inventory experiences, buy-online-pickup-in-store workflows, and fitness-tracker integrations.
-
-#### [Mexsport](https://apps.apple.com/us/app/mexsport/id6742206135)
-
-Built a full-stack mobile and backend platform for official sport-fishing license purchases in Baja California using Kotlin, SwiftUI, C#, APIs, and integrated payments.
-
-#### [It's Just Lunch Digital Systems](https://www.itsjustlunch.com)
-
-Led backend redevelopment for a matchmaking and relationship-management platform, including client intake, lead management, candidate profiles, date scheduling, and feedback-driven matching workflows.
-
-#### [CheckAlt Integrated Receivables Platform](https://www.checkalt.com)
-
-Worked on API-driven financial infrastructure supporting remote deposit capture, ATM deposit capture, lockbox services, fraud detection, and Check 21-compliant processing.
-
-#### [Aló Bodega – Abaxto Corp](https://www.abaxto.com)
-
-Helped build a full-stack omnichannel platform serving more than **35,000 small retailers** across Peru and Chile.
-
-The platform supported real-time pricing, wholesale purchasing, logistics, and mobile applications built with Kotlin, SwiftUI, Swift, and C#.
-
----
-
-### Technology Leadership
-
-Beyond implementation, I have led distributed teams and technology initiatives across the United States, Latin America, India, and international customer environments.
-
-My leadership work has included:
-
-- Architecture and platform modernization.
-- Engineering standards and delivery practices.
-- CI/CD and development workflow improvements.
-- Technical mentoring and onboarding.
-- Product and engineering collaboration.
-- AI-assisted development workflows and validation.
-- Human-in-the-loop controls for safety-sensitive systems.
-- Translating complex technology into practical decisions for business and operating teams.
-
-I currently offer technology leadership and advisory services through [Navarro Consulting](https://www.enavarro.me).
-
----
-
-### Let’s Connect
-
-I’m interested in conversations involving:
-
-- Robotics and autonomous operations.
-- Edge-to-cloud systems.
-- Fleet, telemetry, and operator platforms.
-- Healthcare and enterprise deployment.
-- Real-time communication.
-- Connected devices and IoT.
-- Technology strategy and fractional CTO work.
-- Turning technically difficult pilots into dependable products.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/emilionavarro/"><img src="https://img.shields.io/badge/LinkedIn-Emilio%20Navarro-blue?logo=linkedin" /></a>
-  <a href="https://www.enavarro.me"><img src="https://img.shields.io/badge/Website-enavarro.me-success?logo=google-chrome" /></a>
-  <a href="mailto:emilio.navarro@enavarro.me"><img src="https://img.shields.io/badge/Email-emilio%40enavarro.me-lightgrey?logo=gmail" /></a>
-  <a href="https://github.com/emilio-navarro"><img src="https://img.shields.io/badge/GitHub-emilio--navarro-black?logo=github" /></a>
-</p>
-
----
-
-### License
-
-Public demonstration projects are released under the MIT License where indicated in their individual repositories.
-
----
-
-<p align="center">
-  <b>“Building connected systems that move people, products, and decisions.”</b>
-</p>
+“Making better technology decisions. Then making them real.”
